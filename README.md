@@ -4,6 +4,10 @@
 ![.](https://github.com/WuJoe826/novel_web_crawler/blob/main/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-08%20065732.png)
 ![.](https://github.com/WuJoe826/novel_web_crawler/blob/main/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-08%20065740.png)
 ## 功能説明：
+- 提取網絡小説的内容并且轉換成`.txt`文件。
+## 實現原理：
+待填。。。
 ## 免責聲明：
+- 此專案不能夠用於任何商業用途。
 ## 授權許可：
 此專案遵守MIT授權協議。
