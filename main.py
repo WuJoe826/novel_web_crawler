@@ -7,6 +7,9 @@ pyglet.font.add_file("zpix.ttf")
 font_family = "zpix"
 current_page = "spider_page"
 
+fanqienovel_decrypt = {}
+novel543_decrypt = {}
+
 file_path = os.path.dirname(os.path.realpath(__file__))
 image_code = ctk.CTkImage(Image.open(file_path + "/image/terminal.png"), size=(35, 35))
 image_file_pen = ctk.CTkImage(
